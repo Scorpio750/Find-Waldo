@@ -1,0 +1,4 @@
+Find-Waldo
+==========
+
+Computer vision
