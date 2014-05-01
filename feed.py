@@ -1,3 +1,6 @@
+# AUTHORED BY PATRICK WU
+# I AM WORKING FROM TIM'S LAPTOP (> -_-)>
+
 import numpy as np #linear algebra
 import cv2
 
