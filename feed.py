@@ -38,7 +38,7 @@ while True:
 	for i in range(len(img1)):
 		for j in range(len(img1[i])):
 			print i, j
-	"""		whiteTest = []
+			whiteTest = []
 			
 			for k in range(len(img1[i][j])):
 				# eval whitespace in image
@@ -53,7 +53,7 @@ while True:
 				elif j < box1.left:
 					box1.left = j
 				elif j > box1.right:
-					box1.right = j """
+					box1.right = j
 
 cap.release()
 cv2.destroyAllWindows()
